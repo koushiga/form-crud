@@ -1,0 +1,25 @@
+
+table,td,th,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    font-size: 16px;
+}
+.tab button{
+    margin-right: 10px;
+}
+.edit{
+    font-size: 16px;
+    color: white;
+    background-color: Green;
+    border: 1px solid green;
+    padding:1px 12px ;
+    border-radius: 5px;
+}
+.delete{
+    font-size: 16px;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+}

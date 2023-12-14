@@ -1,0 +1,44 @@
+.register-form{
+    background-color:#eb7734;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.register{
+    padding: 30px 90px;
+    background-color: whitesmoke;
+    border:transparent;
+    box-shadow: 0 0 10px;
+    border-radius: 10px;
+}
+.register label{
+    /* display: block; */
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 3px;
+    padding-right: 5px;
+}
+.register input{
+    padding: 7px 30px 7px 5px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+
+.register button{
+    padding: 10px 50px;
+    background-color: #eb7734;
+    color:white;
+    font-size: 17px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+.date label{
+    text-align: left !important;
+}
+.date input{
+    padding:7px 80px 7px 5px;
+}
